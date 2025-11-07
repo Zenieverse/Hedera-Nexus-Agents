@@ -2,6 +2,10 @@
 
 “Autonomous AI Agents that think, transact, and collaborate — verifiably, on-chain.”
 
+https://vimeo.com/1133448870
+
+
+
 Problem
 
 AI agents are emerging rapidly (e.g., LangChain agents, AutoGPT, OpenDevin), but their interactions remain off-chain, unverifiable, and unmonetized.
